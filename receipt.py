@@ -22,4 +22,5 @@ def main():
     sc = Shopping_cart()
     sc.receipt()
     
-main()
+if __name__ == "__main__":
+    main()
